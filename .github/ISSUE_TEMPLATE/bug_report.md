@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-Extra (optional) 
+**Extra (optional)**
 If not Desktop, MacOS, and Chrome please fill out the following:
 - Device type: [e.g. Mobile]
 - OS: [e.g. Windows]
